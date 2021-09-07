@@ -82,7 +82,7 @@
     "react-dom": "^16.0.0",
     "react-helmet": "^5.2.0",
     "remark": "^8.0.0",
-    "remark-html": "^5.0.1",
+    "remark-html": "^13.0.2",
     "remark-react": "^4.0.1",
     "request": "^2.79.0",
     "rollup": "^0.66.2",
