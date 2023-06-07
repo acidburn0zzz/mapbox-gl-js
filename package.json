@@ -28,7 +28,7 @@
     "geojson-vt": "^3.2.1",
     "gl-matrix": "^2.6.1",
     "grid-index": "^1.0.0",
-    "minimist": "0.0.8",
+    "minimist": "0.2.4",
     "murmurhash-js": "^1.0.0",
     "pbf": "^3.0.5",
     "potpack": "^1.0.1",
